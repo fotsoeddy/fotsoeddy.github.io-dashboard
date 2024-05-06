@@ -150,7 +150,7 @@
                 }
                 
                 .container input:checked ~ .checkmark {
-                    background-color: #ff4357;
+                    background-color: #2675e1;
                     border: 2px solid transparent;
                 }
                 .checkmark:after {
@@ -217,10 +217,10 @@
     .irs-bar {
         height: 6px;
         top: 33px;
-        border-top: 1px solid #ff3368;
-        border-bottom: 1px solid #ff3368;
-        background: #ff3368;
-        background: linear-gradient(to top, #ff3368 0%, #ff3368 100%);
+        border-top: 1px solid #2675e1;
+        border-bottom: 1px solid #2675e1;
+        background: #2675e1;
+        background: linear-gradient(to top, #2675e1 0%, #2675e1 100%);
     }
     
     .irs-line {
@@ -237,9 +237,9 @@
     .irs-slider {
         height: 15px;
         width: 15px;
-        border: 1px solid #ff3368;
-        background-color: #ff3368;
-        background: linear-gradient(to bottom, #ff3368 0%, #ff3368 20%, #ff3368 100%);
+        border: 1px solid #2675e1;
+        background-color: #2675e1;
+        background: linear-gradient(to bottom, #2675e1 0%, #2675e1 20%, #2675e1 100%);
         top: 28px;
         box-shadow: none;
         border-radius: 0;
