@@ -848,6 +848,8 @@ img.shadow {
     bottom: 0;
     width: 100%;
     z-index: 9999;
+    padding-left: 500px;
+
 }
 
 .fixed-up{
