@@ -422,7 +422,7 @@
       new Chart(leaveReportCanvas, {
         type: 'bar',
         data: {
-          labels: ["Jan","Feb", "Mar", "Apr", "May"],
+          labels: ["Mon","Tue", "Wed", "Thurs", "Fri"],
           datasets: [{
               label: 'Last week',
               data: [18, 25, 39, 11, 24],

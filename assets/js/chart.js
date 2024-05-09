@@ -156,7 +156,7 @@ $(function() {
   }
 
   var multiAreaData = {
-    labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    labels: ["Mon", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
     datasets: [{
         label: 'Facebook',
         data: [8, 11, 13, 15, 12, 13, 16, 15, 13, 19, 11, 14],
