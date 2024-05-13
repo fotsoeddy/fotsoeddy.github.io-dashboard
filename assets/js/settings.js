@@ -89,19 +89,19 @@
 
     $(".color-theme.default").click(function(){
       $(".color-theme.default").attr({
-        "href" : "https://www.bootstrapdash.com/demo/star-admin2-pro/template/demo/vertical-default-light/index.html",
+        "href" : "https://www.bootstrapdash.com/demo/star-admin2-pro/template/demo/vertical-default-light/recruiter-dashboard.html",
         "title" : "Light"
       });
     });
     $(".color-theme.dark").click(function(){
       $(".color-theme.dark").attr({
-        "href" : "https://www.bootstrapdash.com/demo/star-admin2-pro/template/demo/vertical-default-dark/index.html",
+        "href" : "https://www.bootstrapdash.com/demo/star-admin2-pro/template/demo/vertical-default-dark/recruiter-dashboard.html",
         "title" : "Dark"
       });
     });
     $(".color-theme.brown").click(function(){
       $(".color-theme.brown").attr({
-        "href" : "https://www.bootstrapdash.com/demo/star-admin2-pro/template/demo/vertical-default-brown/index.html",
+        "href" : "https://www.bootstrapdash.com/demo/star-admin2-pro/template/demo/vertical-default-brown/recruiter-dashboard.html",
         "title" : "Brown"
       });
     });
