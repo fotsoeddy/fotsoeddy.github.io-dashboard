@@ -22198,6 +22198,10 @@ code {
 .home-tab .btn-wrapper .btn i {
   font-size: 0.75rem;
 }
+.btn-wrapper{
+  display: flex;
+  justify-content: space-between;
+}
 .home-tab .dropdown .btn {
   border: none;
   font-weight: bold;
